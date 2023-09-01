@@ -6,7 +6,7 @@ tags: ["android", "security","mobile"]
 ---
 
 
-What would you do, if you wanted a premium feature in an Android app, but were too greedy to spend ten bucks on it? Right, you invest >200$ worth your time for un unstable result! 
+What would you do, if you wanted a premium feature in an Android app, but were too greedy to spend ten bucks on it? Right, you invest >200$ worth your time for an unstable result! 
 
 ![It's about the stuff we learn along the way ](https://media.giphy.com/media/wMvESGxZ0Cqd2/giphy.gif)   
 
