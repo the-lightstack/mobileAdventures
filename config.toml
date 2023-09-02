@@ -1,4 +1,4 @@
-baseurl = "https://the-lightstack.github.io"
+baseurl = "https://the-lightstack.github.io/mobileAdventures"
 DefaultContentLanguage = "en"
 title = "Mobile Adventures"
 theme = "beautifulhugo"
