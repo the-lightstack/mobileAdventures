@@ -17,7 +17,7 @@ First off, you got to understand the basics. Android apps are stored in [apk fil
 ## What we're cracking
 I chose my target out of necessity. There is this cool app, *Songsterr*, which displays guitar songs, but a lot of features require you to buy the full version for 10$.   
 
- ![Screenshot of Songsterr guitar tab view](/2023-09-01-android-hacking-songsterrMainView.png)
+ ![Screenshot of Songsterr guitar tab view](./songsterrMainView.png)
 
 I started by downloading the APK using a downloader website (just google it, but be aware of the fact, that they could just inject malicious code into the application). 
 
@@ -28,7 +28,7 @@ jadx --threads-count 1 --show-bad-code --deobf --deobf-min 2 --deobf-use-sourcen
 ```    
 Having a look at `AndroidManifest.xml` is a good first move. It tells you about the permissions the app requests and which [Intents](https://developer.android.com/guide/components/intents-filters) and Activities it contains. Next, I had a look into the `sources` directory.
 
-![Decompiled source files](/2023-09-01-android-hacking-decompiledSourceFiles.png)
+![Decompiled source files](./decompiledSourceFiles.png)
 
 As you can see, most filenames are gibberish. So let's just look into the directories that still hold normal names. In my case `songsterr` under `com` contained readable java code, but not what I was looking for.
 
