@@ -16,7 +16,9 @@ Tackling a complex UI component like an interactive, animated and glowing progre
 2. Add the glow 🌟 effect
 3. Add additional UI like text hints to it
 4. Make it Interactivate 
-5. And finally some sweet animations 🎬
+5. And finally some sweet animations 🎬   
+
+> You can follow the source code with commits matching the different steps [on Github](https://github.com/the-lightstack/GlowingProgressIndicator)
 
 ## Building an arc
 Whenever you need to draw custom shapes in flutter, you won't get around using the `CustomPaint` Widget. It allows you to draw circles, rectangles and also arcs, which are slices of a circle.    
