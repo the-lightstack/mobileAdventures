@@ -1,3 +1,11 @@
+---
+title: Flutter package driven development 
+subtitle: How it helps you and other Flutterians
+date: 2023-09-21
+tags: ["flutter", "concept"]
+---
+
+
 Everyone who has worked on a bigger project in flutter knows that the standard library with its widgets will only get you so far. If you are lucky someone has already fixed your problem on [pub.dev](https://pub.dev) or [stackoverflow](https://stackoverflow.com). If not, this article is for you as we will explore how to:
 1) Fix your problem easier, more quickly and reliable
 2) Help out the community
