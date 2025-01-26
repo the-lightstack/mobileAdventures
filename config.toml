@@ -1,6 +1,6 @@
 baseurl = "https://the-lightstack.github.io/mobileAdventures"
 DefaultContentLanguage = "en"
-title = "Mobile Adventures"
+title = "Light Writings"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
